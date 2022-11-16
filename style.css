@@ -1,3 +1,17 @@
+hr
+
+{
+    width: 800px;
+    margin-left: 0px; /* left-align */
+    border: solid 1px gray
+}
+
+p
+
+{
+    width: 800px;
+}
+
 textarea
 
 {
